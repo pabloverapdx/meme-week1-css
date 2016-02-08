@@ -1,0 +1,30 @@
+body {
+  box-sizing: border-box;
+  background-color: blue;
+}
+.container {
+  background-image: url(../img/meme.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*position: relative;*/
+  height: 800px;
+  width: 600px;
+}
+
+.bottom {
+  margin-top: 750px;
+  /*bottom: 10px;*/
+  /*position: absolute;*/
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-shadow: 1px 1px 1px white;
+}
+
+.top {
+  /*margin-top: 250px;*/
+  text-align: center;
+  font-family: 'Arial Rounded MT Bold', 'Helvetica Rounded', Arial, sans-serif;
+  text-shadow: 1px 1px 1px white;
+
+}
